@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+.ipynb_checkpoints/
+uv.lock
+search_results.txt
+search_results_community.txt
+.streamlit/
